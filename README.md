@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codan78
 - 👀 I’m interested in PHP,JAVA and ABAP
 - 🌱 I’m currently learning Python and GoLang
-- 💞️ I’m looking to collaborate on PHP and ABAP
+- 💞️ I’m looking to collaborate on PHP,JS and ABAP
 - 📫 How to reach me here
 
 <!---
